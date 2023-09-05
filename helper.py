@@ -1,6 +1,7 @@
 from ultralytics import YOLO
 import streamlit as st
-import cv2, pafy
+import cv2
+import pafy
 
 import settings
 
