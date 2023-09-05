@@ -3,4 +3,3 @@ streamlit
 ultralytics
 opencv-python-headless
 pafy
-git+https://github.com/ytdl-org/youtube-dl.git
