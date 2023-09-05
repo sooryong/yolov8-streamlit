@@ -3,4 +3,4 @@ streamlit
 ultralytics
 opencv-python-headless
 pafy
---upgrade --force-reinstall "git+https://github.com/ytdl-org/youtube-dl.git"
+git+https://github.com/ytdl-org/youtube-dl.git
